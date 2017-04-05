@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анна Коротаева](https://up.htmlacademy.ru/javascript/9/user/64388).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Кузнецов`.
 
 ---
 
